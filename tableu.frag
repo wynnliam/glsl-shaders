@@ -1,5 +1,4 @@
-// Author @patriciogv - 2015
-// http://patriciogonzalezvivo.com
+// Liam Wynn
 
 #ifdef GL_ES
 precision mediump float;
